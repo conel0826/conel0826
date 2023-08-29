@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @conel0826
-- 👀 I’m interested in ... lots of things
-- 🌱 I’m currently learning ... everthing
-- 💞️ I’m looking to collaborate on ... commitment
-- 📫 How to reach me ... love me
+Hi, I’m @conel0826, and I’m interested in **me** (my opinion, you cannot view the world, without a basis to view it from). 
 
 <!---
 conel0826/conel0826 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
