@@ -1,4 +1,4 @@
-1. Hi, I’m @conel0826, and I’m interested in **me** (my opinion, you cannot view the world, without a basis to view it from). 
+1. Hi, I’m @conel0826, and I’m interested in **me** (you cannot simply view the world, without a basis to view it from). 
 2. In Progress...
 
 
